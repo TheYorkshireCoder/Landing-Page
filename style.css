@@ -1,0 +1,13 @@
+html {font-family: sans-serif;}
+header { background-color: #1F2937; max-width: 100%;}
+.topbar {display: flex; justify-content: space-between; max-width: 80%; margin: auto; align-content: center;}
+.link {font-size: 18px; color: #E5E7EB; text-decoration: none;}
+.logo {font-size: 24px; color: #F9FAF8;}
+h1 {font-size: 48px; font-weight: bolder; color: #F9FAF8;}
+.subtext {font-size: 18px; color: #E5E7EB;}
+.links {display: flex; gap: 20px; justify-content: flex-end; padding: 20px 0 20px;}
+.container {display: flex; max-width: 80%; margin: auto; flex-direction: row; gap: 20px;}
+#left {display: flex; flex-direction: column; max-width: 100%; margin: auto;}
+#right {display: flex; justify-content: center; max-width: 100%; margin: auto;}
+img {padding: 40px 0 40px 40px; }
+.button {background-color: #3882F6; color: white; border-radius: 10px; width: 150px; height: 25px; border-color: #3882F6; font-weight: bold; box-shadow: none;}
