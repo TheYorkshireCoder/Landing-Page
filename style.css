@@ -67,8 +67,7 @@ h1 {
 img {
     padding: 40px 0 40px 40px;
     object-fit: cover;
-    flex: 1 1 auto; 
-    max-width: 500px;
+    flex: 1 1 auto;
 }
 .button {
     background-color: #3882F6; 
