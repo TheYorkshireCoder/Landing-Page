@@ -6,13 +6,14 @@ body {
     background-color: white; 
     max-width: 70%; margin: auto; 
     margin-bottom: 0%;
+
 }
 header { 
     background-color: #1F2937; 
-    max-width: 100%; 
+    max-width: 100%;
     padding-bottom: 100px;
 }
-.topbar {
+.navbar {
     display: flex; 
     justify-content: space-between; 
     max-width: 80%; margin: auto; 
@@ -68,6 +69,7 @@ img {
     padding: 40px 0 40px 40px;
     object-fit: cover;
     flex: 1 1 auto;
+    max-width: 100%;
 }
 .button {
     background-color: #3882F6; 
